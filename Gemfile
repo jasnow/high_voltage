@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
-gem 'appraisal'
-
 gemspec
+
+gem "appraisal"
+gem "rspec-rails", "~> 3.2"
