@@ -4,3 +4,4 @@ gemspec
 
 gem "appraisal"
 gem "rspec-rails", "~> 3.2"
+gem "responders"
